@@ -1,16 +1,23 @@
-## Hi there Nico Gerber
+# Hi, I'm Nico Gerber
 
-<!--
-**Nico-Engineering-Projects/Nico-Engineering-Projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer and Electronic Engineering student at North-West University, Potchefstroom. I'm interested in electronics, embedded systems and practical automation.
 
-Here are some ideas to get you started:
+I use GitHub to document what I design, build, test and learn, one project and one development phase at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current project
+
+### [Automatic Plant Watering System](https://github.com/Nico-Engineering-Projects/automatic-plant-watering-system)
+
+Developing an ESP32-based watering system from the breadboard prototype through firmware development, testing and refinement.
+
+**Current progress:** relay and pump connected on the breadboard. Firmware development and functional testing are next.
+
+## Portfolio
+
+[Explore my engineering portfolio](https://Nico-Engineering-Projects.github.io/)
+
+## Interests
+
+- Embedded systems and microcontrollers
+- Electronics and circuit design
+- Automation and practical problem solving
