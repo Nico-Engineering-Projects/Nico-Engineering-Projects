@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there Nico Gerber
 
 <!--
 **Nico-Engineering-Projects/Nico-Engineering-Projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
